@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "50214812884",
+    "firebase_url": "https://semihhw34.firebaseio.com",
+    "project_id": "semihhw34",
+    "storage_bucket": "semihhw34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50214812884:android:4e640876136f1b727b0f41",
+        "android_client_info": {
+          "package_name": "com.SE380Lab2.hw220160601101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50214812884-a5nainterbdi3vbtptforppgag2co389.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu6jSqWVUchILX4bhy31iZTHnKoySslUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50214812884-a5nainterbdi3vbtptforppgag2co389.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50214812884:android:f2592a152174dc727b0f41",
+        "android_client_info": {
+          "package_name": "com.caloriecalcv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50214812884-a5nainterbdi3vbtptforppgag2co389.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu6jSqWVUchILX4bhy31iZTHnKoySslUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50214812884-a5nainterbdi3vbtptforppgag2co389.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50214812884:android:4552bf7a0e68c7d67b0f41",
+        "android_client_info": {
+          "package_name": "com.hw1_20160601101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50214812884-a5nainterbdi3vbtptforppgag2co389.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu6jSqWVUchILX4bhy31iZTHnKoySslUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50214812884-a5nainterbdi3vbtptforppgag2co389.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
